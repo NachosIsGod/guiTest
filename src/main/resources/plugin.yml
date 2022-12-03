@@ -1,0 +1,7 @@
+name: GuiTest
+version: '${project.version}'
+main: hacklab.guitest.GuiTest
+api-version: 1.19
+
+commands:
+  openbackgui:
